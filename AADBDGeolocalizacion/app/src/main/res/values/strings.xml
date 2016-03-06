@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AADBDGeolocalizacion</string>
+    <string name="pos">Posicion</string>
+    <string name="datgps">Descargar datos gps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miércoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sabado</string>
+    <string name="domingo">Domingo</string>
+
+</resources>
